@@ -1,0 +1,28 @@
+_repo: The-New-Morning--Poems_21029
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Noyes, Alfred
+    birthdate: 1880
+    deathdate: 1958
+    gutenberg_agent_id: '2093'
+    url: http://www.gutenberg.org/2009/agents/2093
+    wikipedia: http://en.wikipedia.org/wiki/Alfred_Noyes
+description: ''
+gutenberg_bookshelf: Poetry
+gutenberg_issued: '2007-04-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21029'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Poetry'
+title: 'The New Morning: Poems'
+url: http://www.gutenberg.org/ebooks/21029
